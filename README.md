@@ -1,3 +1,3 @@
 # cyberscribeblog.github.io
 
-Blog repo for [cyberscribe.blog](cyberscribe.blog)
+Blog repo for [CyberScribe.Blog](cyberscribe.blog)
