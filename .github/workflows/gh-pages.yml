@@ -39,7 +39,7 @@ jobs:
         run: echo 'cyberscribe.blog' > public/CNAME
 
       - name: Create Google Adsense file
-        run: echo 'google.com, 'tbd when adsense is active' > public/ads.txt
+        run: echo 'google.com, tbd when adsense is active' > public/ads.txt
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
